@@ -5,6 +5,8 @@ Bilingual (中/EN) resume slide deck for a Security Engineer · SOC · Threat Hu
 
 🔗 **線上簡報 / Live deck:** https://deenar-de.github.io/resume/
 
+📄 **文字版履歷 / Text resume:** [中文](./resume-zh.md) ｜ [English](./resume-en.md)
+
 ## 開發 / Development
 
 ```bash

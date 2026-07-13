@@ -20,17 +20,13 @@ fonts:
 <div class="opacity-70 text-lg mt-1">Security Engineer · SOC · Threat Hunting</div>
 
 <div class="mt-8 text-sm opacity-80 leading-relaxed">
-  📧 <span class="text-amber-400 font-semibold">你的Email</span> &nbsp;｜&nbsp; 📱 <span class="text-amber-400 font-semibold">你的電話</span> &nbsp;｜&nbsp; 📍 <span class="text-amber-400 font-semibold">居住地</span>, Taiwan<br/>
+  📧 linpeihsuan00@gmail.com &nbsp;｜&nbsp; 📱 09787381730 &nbsp;｜&nbsp; 📍 Taiwan<br/>
   <carbon:logo-github class="inline-block" /> <a href="https://github.com/deenar-de" target="_blank">github.com/deenar-de</a>
 </div>
 
 <div class="abs-br m-6 text-xs opacity-50">
   按空白鍵翻頁 · Press Space to navigate →
 </div>
-
-<!--
-歡迎頁：請把 <REPLACE_EMAIL> / <REPLACE_PHONE> / <REPLACE_LOCATION> 換成真實資訊。
--->
 
 ---
 layout: two-cols
@@ -239,6 +235,6 @@ class: text-center
 </div>
 
 <div class="mt-8 text-sm opacity-80">
-  📧 <span class="text-amber-400 font-semibold">你的Email</span> &nbsp;｜&nbsp; 📱 <span class="text-amber-400 font-semibold">你的電話</span><br/>
+  📧 linpeihsuan00@gmail.com &nbsp;｜&nbsp; 📱 09787381730<br/>
   <carbon:logo-github class="inline-block" /> <a href="https://github.com/deenar-de" target="_blank">github.com/deenar-de</a>
 </div>
