@@ -27,10 +27,7 @@ jobs:
           node-version: 20
           cache: npm
 
-      # Auto-enables GitHub Pages (source = GitHub Actions) on first run
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - run: npm ci
 
