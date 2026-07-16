@@ -21,7 +21,7 @@ fonts:
 
 <div class="mt-8 text-sm opacity-80 leading-relaxed">
   📧 linpeihsuan00@gmail.com &nbsp;｜&nbsp; 📱 09787381730 &nbsp;｜&nbsp; 📍 Taiwan<br/>
-  <carbon:logo-github class="inline-block" /> <a href="https://github.com/deenar-de" target="_blank">github.com/deenar-de</a>
+  <carbon:logo-github class="inline-block" /> <a href="https://github.com/deenar-de" target="_blank">github.com/deenar-de</a> &nbsp;｜&nbsp; <carbon:logo-linkedin class="inline-block" /> <a href="https://www.linkedin.com/in/pei-hsuan-lin-753803169" target="_blank">linkedin.com/in/pei-hsuan-lin</a>
 </div>
 
 <div class="abs-br m-6 text-xs opacity-50">
@@ -157,7 +157,7 @@ layoutClass: gap-8
 
 - **Palo Alto Networks — Cortex XSIAM**
   Security Operations, Integration & Automation（結業證書 · 2026）
-- **Cisco CCNA 講師** — 教授網路基礎與 CCNA 課程
+- **Cisco CCNA 網路課程培訓** — 完成網路基礎與 CCNA 課程培訓（結業證明）
 - 交換生接待計畫 組長 · MOOCs 影片後製
 
 </div>
@@ -236,5 +236,5 @@ class: text-center
 
 <div class="mt-8 text-sm opacity-80">
   📧 linpeihsuan00@gmail.com &nbsp;｜&nbsp; 📱 09787381730<br/>
-  <carbon:logo-github class="inline-block" /> <a href="https://github.com/deenar-de" target="_blank">github.com/deenar-de</a>
+  <carbon:logo-github class="inline-block" /> <a href="https://github.com/deenar-de" target="_blank">github.com/deenar-de</a> &nbsp;｜&nbsp; <carbon:logo-linkedin class="inline-block" /> <a href="https://www.linkedin.com/in/pei-hsuan-lin-753803169" target="_blank">linkedin.com/in/pei-hsuan-lin</a>
 </div>

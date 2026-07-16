@@ -3,7 +3,7 @@
 **Security Engineer ｜ SOC · Threat Hunting**
 
 📧 linpeihsuan00@gmail.com ｜ 📱 09787381730 ｜ 📍 Taiwan
-GitHub: https://github.com/deenar-de
+GitHub: https://github.com/deenar-de ｜ LinkedIn: https://www.linkedin.com/in/pei-hsuan-lin-753803169
 
 ---
 
@@ -62,5 +62,5 @@ M.S. in Information Security (National Sun Yat-sen University, 2026). Currently 
 
 ## Extracurricular
 
-- **Cisco CCNA Instructor** — taught networking fundamentals and CCNA courses
+- **Cisco CCNA Networking Training** — completed networking fundamentals and CCNA coursework (Certificate of Completion)
 - Exchange-Student Reception Program, Team Lead ｜ MOOCs video post-production

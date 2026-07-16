@@ -3,7 +3,7 @@
 **資安工程師 ｜ SOC ‧ 威脅獵捕 (Threat Hunting)**
 
 📧 linpeihsuan00@gmail.com ｜ 📱 09787381730 ｜ 📍 Taiwan
-GitHub: https://github.com/deenar-de
+GitHub: https://github.com/deenar-de ｜ LinkedIn: https://www.linkedin.com/in/pei-hsuan-lin-753803169
 
 ---
 
@@ -62,5 +62,5 @@ GitHub: https://github.com/deenar-de
 
 ## 課外經驗
 
-- **Cisco CCNA 講師** — 教授網路基礎與 CCNA 課程
+- **Cisco CCNA 網路課程培訓** — 完成網路基礎與 CCNA 課程培訓（結業證明）
 - 交換生接待計畫 組長 ｜ MOOCs 影片後製
